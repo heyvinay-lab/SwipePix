@@ -899,17 +899,17 @@
     }
   },
   "downloads": {
-    "currentVersion": "1.0",
+    "currentVersion": "1.0.0",
     "versionCode": 1,
     "releaseDate": "September 2026",
     "releaseStatus": "PRODUCTION_READY",
     "minAndroid": "Android 13+ (API 33)",
     "apkStatus": "DIRECT_RELEASE",
-    "apkDownloadUrl": null,
+    "apkDownloadUrl": "/downloads/SwipePix-1.0.0.apk",
     "playStoreUrl": null,
     "githubReleaseUrl": "https://github.com/heyvinay/SwipePix/releases",
     "checksumSha256": null,
-    "fileSizeBytes": null
+    "fileSizeBytes": 4486854
   },
   "support": {
     "developerSite": "https://portfolio.heyvinay.in/",
