@@ -74,3 +74,12 @@ dump.xml
 # Stray / extracted directories
 androidMain/
 /androidMain/
+
+# Internal Agent & Planning metadata
+.agents/
+/.agents/
+.gsd/
+/.gsd/
+.planning/
+/.planning/
+
