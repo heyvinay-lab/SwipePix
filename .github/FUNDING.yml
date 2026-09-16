@@ -1,0 +1,5 @@
+﻿# GitHub Funding Configuration for SwipePix
+# Enables the native GitHub Sponsor button on the repository
+
+github: [heyvinay-lab]
+custom: ["https://swipepix.heyvinay.in/donate"]

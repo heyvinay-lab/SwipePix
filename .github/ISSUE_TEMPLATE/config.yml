@@ -1,0 +1,11 @@
+﻿blank_issues_enabled: false
+contact_links:
+  - name: 🌐 Official Website & Documentation
+    url: https://swipepix.heyvinay.in/
+    about: Visit the official SwipePix web portal for documentation, release notes, and updates.
+  - name: 💬 Direct Support Email
+    url: mailto:vinay@heyvinay.in
+    about: Reach out directly to the maintainer for questions or inquiries.
+  - name: 💖 Support & Donate
+    url: https://swipepix.heyvinay.in/donate
+    about: Support ongoing open-source independent development of SwipePix.

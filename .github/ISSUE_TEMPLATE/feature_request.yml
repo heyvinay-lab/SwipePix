@@ -1,0 +1,28 @@
+﻿name: 💡 Feature Request
+description: Suggest an idea or enhancement for SwipePix
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We welcome feature ideas and UX suggestions! Note: SwipePix is strictly 100% offline and privacy-first, so features requiring cloud sync or telemetry cannot be accepted.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Is your feature request related to a problem?
+      description: A clear and concise description of the problem you're encountering.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Describe the Solution You'd Like
+      description: A clear and concise description of what you want to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe alternatives you've considered
+      description: Any other alternative solutions or features you considered.
