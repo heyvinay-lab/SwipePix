@@ -1,0 +1,76 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+app/build/
+/build/
+**/build/
+
+# Gradle files
+.gradle/
+buildOutputCleanup/
+
+# Android Studio & IntelliJ IDEA
+*.iml
+.idea/
+/.idea/
+*.ipr
+*.iws
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+/captures/
+
+# External native build folder
+.externalNativeBuild/
+.cxx/
+
+# Kotlin daemon and caches
+.kotlin/
+
+# VS Code
+.vscode/
+
+# Local configuration file (sdk path, etc)
+local.properties
+**/local.properties
+
+# Signing credentials & Keystores (NEVER commit to version control!)
+keystore.properties
+**/keystore.properties
+*.jks
+*.keystore
+keystore/
+/keystore/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Ad-hoc test artifacts, dumps, and root debug screenshots
+temp/
+/temp/
+dump.xml
+/dump.xml
+/*.png
+
+# Stray / extracted directories
+androidMain/
+/androidMain/
